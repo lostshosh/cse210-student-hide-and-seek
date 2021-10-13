@@ -31,4 +31,5 @@ root                    (project root folder)
 * Python 3.8.0
 
 ## Authors
-* 
+* Larry Copeland
+cop21004@byui.edu
